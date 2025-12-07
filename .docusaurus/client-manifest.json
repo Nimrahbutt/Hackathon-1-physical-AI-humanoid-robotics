@@ -1,0 +1,759 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "2237": [
+      2237
+    ],
+    "3269": [
+      867,
+      1869,
+      3249,
+      4212,
+      4813,
+      5159,
+      7643,
+      3269
+    ],
+    "5159": [
+      867,
+      1869,
+      3249,
+      3269,
+      4813,
+      6061,
+      7643,
+      8401,
+      5159
+    ],
+    "17896441": [
+      1869,
+      5159,
+      8401
+    ],
+    "59362658": [
+      9325
+    ],
+    "98137618": [
+      5196
+    ],
+    "main": [
+      1869,
+      5354,
+      8792
+    ],
+    "runtime~main": [
+      1869,
+      8792,
+      5354
+    ],
+    "01a85c17": [
+      1869,
+      8209
+    ],
+    "0e384e19": [
+      3976
+    ],
+    "18c41134": [
+      9262
+    ],
+    "1df93b7f": [
+      1869,
+      4583
+    ],
+    "1e4232ab": [
+      1953
+    ],
+    "1f391b9e": [
+      1869,
+      5159,
+      6061
+    ],
+    "2272fe45": [
+      6442
+    ],
+    "30620e44": [
+      7999
+    ],
+    "33fc5bb8": [
+      1869,
+      3269,
+      5159,
+      867
+    ],
+    "36994c47": [
+      9858
+    ],
+    "393be207": [
+      4134
+    ],
+    "4f4bdfdf": [
+      5211
+    ],
+    "533a09ca": [
+      3098
+    ],
+    "5c868d36": [
+      1974
+    ],
+    "5e95c892": [
+      9647
+    ],
+    "621db11d": [
+      1869,
+      3269,
+      4212
+    ],
+    "6875c492": [
+      1869,
+      3269,
+      5159,
+      4813
+    ],
+    "73664a40": [
+      1972
+    ],
+    "7661071f": [
+      8737
+    ],
+    "773dc7c8": [
+      1799
+    ],
+    "7b4eb9cc": [
+      5152
+    ],
+    "814f3328": [
+      7472
+    ],
+    "822bd8ab": [
+      2748
+    ],
+    "8717b14a": [
+      3694
+    ],
+    "879c8b9d": [
+      7713
+    ],
+    "925b3f96": [
+      8609
+    ],
+    "9e4087bc": [
+      2711
+    ],
+    "a43dec22": [
+      7893
+    ],
+    "a4b693e3": [
+      7532
+    ],
+    "a6aa9e1f": [
+      1869,
+      3269,
+      5159,
+      7643
+    ],
+    "a7456010": [
+      1235
+    ],
+    "a7bd4aaa": [
+      7098
+    ],
+    "a94703ab": [
+      1869,
+      9048
+    ],
+    "aba21aa0": [
+      5742
+    ],
+    "acecf23e": [
+      1903
+    ],
+    "b266f9a6": [
+      997
+    ],
+    "b576bf44": [
+      2831
+    ],
+    "b91009d5": [
+      7143
+    ],
+    "c1a7c0d3": [
+      7925
+    ],
+    "c5797d43": [
+      5
+    ],
+    "ccc49370": [
+      1869,
+      3269,
+      5159,
+      3249
+    ],
+    "d9f32620": [
+      5557
+    ],
+    "dff1c289": [
+      1724
+    ],
+    "e077553f": [
+      1851
+    ],
+    "e273c56f": [
+      9328
+    ],
+    "e44a2883": [
+      4736
+    ],
+    "f07d3187": [
+      3567
+    ],
+    "f4f34a3a": [
+      3637
+    ],
+    "f55d3e7a": [
+      8863
+    ],
+    "styles": [
+      867,
+      3249,
+      3269,
+      4212,
+      4583,
+      4813,
+      5159,
+      5354,
+      6061,
+      7643,
+      8209,
+      8401,
+      8792,
+      9048,
+      1869
+    ]
+  },
+  "assets": {
+    "5": {
+      "js": [
+        {
+          "file": "assets/js/c5797d43.9ec745b0.js",
+          "hash": "763896cd41e38bf7",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/c5797d43.9ec745b0.js"
+        }
+      ]
+    },
+    "867": {
+      "js": [
+        {
+          "file": "assets/js/33fc5bb8.24f38cc8.js",
+          "hash": "a4107da2453ffde2",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/33fc5bb8.24f38cc8.js"
+        }
+      ]
+    },
+    "997": {
+      "js": [
+        {
+          "file": "assets/js/b266f9a6.0b96e3b1.js",
+          "hash": "36565a57d9d86829",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/b266f9a6.0b96e3b1.js"
+        }
+      ]
+    },
+    "1235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.c85b38c1.js",
+          "hash": "5be3d68e643030b2",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/a7456010.c85b38c1.js"
+        }
+      ]
+    },
+    "1724": {
+      "js": [
+        {
+          "file": "assets/js/dff1c289.4b4cb56f.js",
+          "hash": "db914fe861c9b129",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/dff1c289.4b4cb56f.js"
+        }
+      ]
+    },
+    "1799": {
+      "js": [
+        {
+          "file": "assets/js/773dc7c8.ecacb039.js",
+          "hash": "69380023c48a70b5",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/773dc7c8.ecacb039.js"
+        }
+      ]
+    },
+    "1851": {
+      "js": [
+        {
+          "file": "assets/js/e077553f.7849c7c4.js",
+          "hash": "4736923d1c444eaa",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/e077553f.7849c7c4.js"
+        }
+      ]
+    },
+    "1869": {
+      "css": [
+        {
+          "file": "assets/css/styles.9c53a5ce.css",
+          "hash": "9ad53a1c47b5c5be",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/css/styles.9c53a5ce.css"
+        }
+      ]
+    },
+    "1903": {
+      "js": [
+        {
+          "file": "assets/js/acecf23e.55f1f132.js",
+          "hash": "19a212af2f3b6a9e",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/acecf23e.55f1f132.js"
+        }
+      ]
+    },
+    "1953": {
+      "js": [
+        {
+          "file": "assets/js/1e4232ab.8e3a6070.js",
+          "hash": "b302177425085aed",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/1e4232ab.8e3a6070.js"
+        }
+      ]
+    },
+    "1972": {
+      "js": [
+        {
+          "file": "assets/js/73664a40.35b55336.js",
+          "hash": "a3481dcae0130035",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/73664a40.35b55336.js"
+        }
+      ]
+    },
+    "1974": {
+      "js": [
+        {
+          "file": "assets/js/5c868d36.516d83b8.js",
+          "hash": "6aa5ba4a572d5dae",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/5c868d36.516d83b8.js"
+        }
+      ]
+    },
+    "2237": {
+      "js": [
+        {
+          "file": "assets/js/2237.3d662c53.js",
+          "hash": "b2abc0608e4ee7cb",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/2237.3d662c53.js"
+        }
+      ]
+    },
+    "2711": {
+      "js": [
+        {
+          "file": "assets/js/9e4087bc.b56ce699.js",
+          "hash": "f947b5089c284f0d",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/9e4087bc.b56ce699.js"
+        }
+      ]
+    },
+    "2748": {
+      "js": [
+        {
+          "file": "assets/js/822bd8ab.3133d96a.js",
+          "hash": "33a96c28da4ee993",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/822bd8ab.3133d96a.js"
+        }
+      ]
+    },
+    "2831": {
+      "js": [
+        {
+          "file": "assets/js/b576bf44.cb2986f7.js",
+          "hash": "26af09d571fd90f5",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/b576bf44.cb2986f7.js"
+        }
+      ]
+    },
+    "3098": {
+      "js": [
+        {
+          "file": "assets/js/533a09ca.e35db3a8.js",
+          "hash": "5dec1e2791e61feb",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/533a09ca.e35db3a8.js"
+        }
+      ]
+    },
+    "3249": {
+      "js": [
+        {
+          "file": "assets/js/ccc49370.2d2afb21.js",
+          "hash": "8d1b8693ded078ba",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/ccc49370.2d2afb21.js"
+        }
+      ]
+    },
+    "3269": {
+      "js": [
+        {
+          "file": "assets/js/3269.04eb6be7.js",
+          "hash": "3caea6623dc990dd",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/3269.04eb6be7.js"
+        }
+      ]
+    },
+    "3567": {
+      "js": [
+        {
+          "file": "assets/js/f07d3187.9c5288e9.js",
+          "hash": "9364955919c81f75",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/f07d3187.9c5288e9.js"
+        }
+      ]
+    },
+    "3637": {
+      "js": [
+        {
+          "file": "assets/js/f4f34a3a.db2bb7c7.js",
+          "hash": "4b30a2f2065247a6",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/f4f34a3a.db2bb7c7.js"
+        }
+      ]
+    },
+    "3694": {
+      "js": [
+        {
+          "file": "assets/js/8717b14a.271c67bc.js",
+          "hash": "1ab5cc48e0e71d2b",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/8717b14a.271c67bc.js"
+        }
+      ]
+    },
+    "3976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.c19c5121.js",
+          "hash": "652fa41b1a38df86",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/0e384e19.c19c5121.js"
+        }
+      ]
+    },
+    "4134": {
+      "js": [
+        {
+          "file": "assets/js/393be207.f51d1e71.js",
+          "hash": "d298aab04b2ea322",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/393be207.f51d1e71.js"
+        }
+      ]
+    },
+    "4212": {
+      "js": [
+        {
+          "file": "assets/js/621db11d.185e26e1.js",
+          "hash": "4324d8c9e7e7454c",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/621db11d.185e26e1.js"
+        }
+      ]
+    },
+    "4583": {
+      "js": [
+        {
+          "file": "assets/js/1df93b7f.44835dbd.js",
+          "hash": "3ee5a534aeda2dda",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/1df93b7f.44835dbd.js"
+        }
+      ]
+    },
+    "4736": {
+      "js": [
+        {
+          "file": "assets/js/e44a2883.518653cd.js",
+          "hash": "c4bd9ae38eea2bd2",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/e44a2883.518653cd.js"
+        }
+      ]
+    },
+    "4813": {
+      "js": [
+        {
+          "file": "assets/js/6875c492.4b24e8f0.js",
+          "hash": "5c23c56fb16283b2",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/6875c492.4b24e8f0.js"
+        }
+      ]
+    },
+    "5152": {
+      "js": [
+        {
+          "file": "assets/js/7b4eb9cc.89abc475.js",
+          "hash": "dbf9198d0d08e331",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/7b4eb9cc.89abc475.js"
+        }
+      ]
+    },
+    "5159": {
+      "js": [
+        {
+          "file": "assets/js/5159.71740e95.js",
+          "hash": "1f034f9283ddc93c",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/5159.71740e95.js"
+        }
+      ]
+    },
+    "5196": {
+      "js": [
+        {
+          "file": "assets/js/98137618.86c88385.js",
+          "hash": "027bde0da5c01708",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/98137618.86c88385.js"
+        }
+      ]
+    },
+    "5211": {
+      "js": [
+        {
+          "file": "assets/js/4f4bdfdf.58458595.js",
+          "hash": "bd1bb05fc048699a",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/4f4bdfdf.58458595.js"
+        }
+      ]
+    },
+    "5354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.6c268b1d.js",
+          "hash": "d5385418c6b78d50",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/runtime~main.6c268b1d.js"
+        }
+      ]
+    },
+    "5557": {
+      "js": [
+        {
+          "file": "assets/js/d9f32620.958dd32b.js",
+          "hash": "aca702e95a552c53",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/d9f32620.958dd32b.js"
+        }
+      ]
+    },
+    "5742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.94d9c5f4.js",
+          "hash": "e2bc7a60cd3885b8",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/aba21aa0.94d9c5f4.js"
+        }
+      ]
+    },
+    "6061": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.ad85f799.js",
+          "hash": "d38d3bbcf111758a",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/1f391b9e.ad85f799.js"
+        }
+      ]
+    },
+    "6442": {
+      "js": [
+        {
+          "file": "assets/js/2272fe45.0a044195.js",
+          "hash": "2e3dd00d745e456e",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/2272fe45.0a044195.js"
+        }
+      ]
+    },
+    "7098": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.f6752ff6.js",
+          "hash": "45d075aca70a0926",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/a7bd4aaa.f6752ff6.js"
+        }
+      ]
+    },
+    "7143": {
+      "js": [
+        {
+          "file": "assets/js/b91009d5.48d2c8de.js",
+          "hash": "8d8470f5bbabf360",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/b91009d5.48d2c8de.js"
+        }
+      ]
+    },
+    "7472": {
+      "js": [
+        {
+          "file": "assets/js/814f3328.fa898664.js",
+          "hash": "6e3a8270c167cf77",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/814f3328.fa898664.js"
+        }
+      ]
+    },
+    "7532": {
+      "js": [
+        {
+          "file": "assets/js/a4b693e3.081f72aa.js",
+          "hash": "07fd0d8796725cfa",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/a4b693e3.081f72aa.js"
+        }
+      ]
+    },
+    "7643": {
+      "js": [
+        {
+          "file": "assets/js/a6aa9e1f.bc37d711.js",
+          "hash": "050b563d69d5265d",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/a6aa9e1f.bc37d711.js"
+        }
+      ]
+    },
+    "7713": {
+      "js": [
+        {
+          "file": "assets/js/879c8b9d.e5a18e0e.js",
+          "hash": "28134fcf7edf6004",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/879c8b9d.e5a18e0e.js"
+        }
+      ]
+    },
+    "7893": {
+      "js": [
+        {
+          "file": "assets/js/a43dec22.5beb12c1.js",
+          "hash": "6772593e7250620a",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/a43dec22.5beb12c1.js"
+        }
+      ]
+    },
+    "7925": {
+      "js": [
+        {
+          "file": "assets/js/c1a7c0d3.d29521cf.js",
+          "hash": "2306984cfbafb1b1",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/c1a7c0d3.d29521cf.js"
+        }
+      ]
+    },
+    "7999": {
+      "js": [
+        {
+          "file": "assets/js/30620e44.dc033a2e.js",
+          "hash": "81ff3ca3d044e1c2",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/30620e44.dc033a2e.js"
+        }
+      ]
+    },
+    "8209": {
+      "js": [
+        {
+          "file": "assets/js/01a85c17.72f0bd7e.js",
+          "hash": "37d82b4f2e366fa9",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/01a85c17.72f0bd7e.js"
+        }
+      ]
+    },
+    "8401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.020a8295.js",
+          "hash": "c88e75246cff363c",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/17896441.020a8295.js"
+        }
+      ]
+    },
+    "8609": {
+      "js": [
+        {
+          "file": "assets/js/925b3f96.dc120abe.js",
+          "hash": "fde15130430ad507",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/925b3f96.dc120abe.js"
+        }
+      ]
+    },
+    "8737": {
+      "js": [
+        {
+          "file": "assets/js/7661071f.21546027.js",
+          "hash": "58e520a2312a7330",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/7661071f.21546027.js"
+        }
+      ]
+    },
+    "8792": {
+      "js": [
+        {
+          "file": "assets/js/main.2140f056.js",
+          "hash": "9f6211a4e421aae3",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/main.2140f056.js"
+        }
+      ]
+    },
+    "8863": {
+      "js": [
+        {
+          "file": "assets/js/f55d3e7a.ec85b516.js",
+          "hash": "f2ed971f2cb013aa",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/f55d3e7a.ec85b516.js"
+        }
+      ]
+    },
+    "9048": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.1dcc54d7.js",
+          "hash": "7a092c946057a4a6",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/a94703ab.1dcc54d7.js"
+        }
+      ]
+    },
+    "9262": {
+      "js": [
+        {
+          "file": "assets/js/18c41134.335c713d.js",
+          "hash": "536ba203de9a19b6",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/18c41134.335c713d.js"
+        }
+      ]
+    },
+    "9325": {
+      "js": [
+        {
+          "file": "assets/js/59362658.27959d4d.js",
+          "hash": "90b4ad892aebdf9f",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/59362658.27959d4d.js"
+        }
+      ]
+    },
+    "9328": {
+      "js": [
+        {
+          "file": "assets/js/e273c56f.6131e243.js",
+          "hash": "bfad2120d2b4e442",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/e273c56f.6131e243.js"
+        }
+      ]
+    },
+    "9647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.90220227.js",
+          "hash": "914e3919600863dc",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/5e95c892.90220227.js"
+        }
+      ]
+    },
+    "9858": {
+      "js": [
+        {
+          "file": "assets/js/36994c47.c1c6dae7.js",
+          "hash": "2c02271ca71f70c1",
+          "publicPath": "/Hackathon-1-physical-AI-humanoid-robotics/assets/js/36994c47.c1c6dae7.js"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/Hackathon-1-physical-AI-humanoid-robotics/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/Hackathon-1-physical-AI-humanoid-robotics/docs",
+          "mainDocId": "ch1-intro-physical-ai",
+          "docs": [
+            {
+              "id": "ch1-intro-physical-ai",
+              "path": "/Hackathon-1-physical-AI-humanoid-robotics/docs/ch1-intro-physical-ai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch2-sensors",
+              "path": "/Hackathon-1-physical-AI-humanoid-robotics/docs/ch2-sensors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch3-actuators",
+              "path": "/Hackathon-1-physical-AI-humanoid-robotics/docs/ch3-actuators",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch4-control-systems",
+              "path": "/Hackathon-1-physical-AI-humanoid-robotics/docs/ch4-control-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch5-ros2-fundamentals",
+              "path": "/Hackathon-1-physical-AI-humanoid-robotics/docs/ch5-ros2-fundamentals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/Hackathon-1-physical-AI-humanoid-robotics/docs/intro"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/Hackathon-1-physical-AI-humanoid-robotics/docs/tutorial-basics/congratulations"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/Hackathon-1-physical-AI-humanoid-robotics/docs/tutorial-basics/create-a-blog-post"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/Hackathon-1-physical-AI-humanoid-robotics/docs/tutorial-basics/create-a-document"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/Hackathon-1-physical-AI-humanoid-robotics/docs/tutorial-basics/create-a-page"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/Hackathon-1-physical-AI-humanoid-robotics/docs/tutorial-basics/deploy-your-site"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/Hackathon-1-physical-AI-humanoid-robotics/docs/tutorial-basics/markdown-features"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/Hackathon-1-physical-AI-humanoid-robotics/docs/tutorial-extras/manage-docs-versions"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/Hackathon-1-physical-AI-humanoid-robotics/docs/tutorial-extras/translate-your-site"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/Hackathon-1-physical-AI-humanoid-robotics/docs/ch1-intro-physical-ai",
+                "label": "ch1-intro-physical-ai"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ch4-control-systems",
+  "title": "Chapter 4 – Control Systems",
+  "description": "Coming soon – generated via Spec-Kit + Claude Code.",
+  "source": "@site/docs/ch4-control-systems.md",
+  "sourceDirName": ".",
+  "slug": "/ch4-control-systems",
+  "permalink": "/Hackathon-1-physical-AI-humanoid-robotics/docs/ch4-control-systems",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ch4-control-systems.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "ch4-control-systems",
+    "title": "Chapter 4 – Control Systems",
+    "sidebar_label": "4. Control Systems"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3. Actuators",
+    "permalink": "/Hackathon-1-physical-AI-humanoid-robotics/docs/ch3-actuators"
+  },
+  "next": {
+    "title": "5. ROS 2 Fundamentals",
+    "permalink": "/Hackathon-1-physical-AI-humanoid-robotics/docs/ch5-ros2-fundamentals"
+  }
+}

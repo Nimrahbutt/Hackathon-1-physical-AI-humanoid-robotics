@@ -1,0 +1,28 @@
+{
+  "id": "ch3-actuators",
+  "title": "Chapter 3 – Actuators",
+  "description": "Coming soon – generated via Spec-Kit + Claude Code.",
+  "source": "@site/docs/ch3-actuators.md",
+  "sourceDirName": ".",
+  "slug": "/ch3-actuators",
+  "permalink": "/Hackathon-1-physical-AI-humanoid-robotics/docs/ch3-actuators",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ch3-actuators.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "ch3-actuators",
+    "title": "Chapter 3 – Actuators",
+    "sidebar_label": "3. Actuators"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2. Sensors",
+    "permalink": "/Hackathon-1-physical-AI-humanoid-robotics/docs/ch2-sensors"
+  },
+  "next": {
+    "title": "4. Control Systems",
+    "permalink": "/Hackathon-1-physical-AI-humanoid-robotics/docs/ch4-control-systems"
+  }
+}

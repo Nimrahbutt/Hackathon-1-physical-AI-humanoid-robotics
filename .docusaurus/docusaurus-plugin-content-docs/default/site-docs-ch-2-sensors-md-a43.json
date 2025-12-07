@@ -1,0 +1,28 @@
+{
+  "id": "ch2-sensors",
+  "title": "Chapter 2 – Sensors",
+  "description": "Coming soon – generated via Spec-Kit + Claude Code.",
+  "source": "@site/docs/ch2-sensors.md",
+  "sourceDirName": ".",
+  "slug": "/ch2-sensors",
+  "permalink": "/Hackathon-1-physical-AI-humanoid-robotics/docs/ch2-sensors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ch2-sensors.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "ch2-sensors",
+    "title": "Chapter 2 – Sensors",
+    "sidebar_label": "2. Sensors"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1. Introduction to Physical AI",
+    "permalink": "/Hackathon-1-physical-AI-humanoid-robotics/docs/ch1-intro-physical-ai"
+  },
+  "next": {
+    "title": "3. Actuators",
+    "permalink": "/Hackathon-1-physical-AI-humanoid-robotics/docs/ch3-actuators"
+  }
+}
